@@ -1,7 +1,5 @@
 # AI Coverletter Generator
 
-![AI Coverletter Generator Logo](coverletter.png)
-
 AI Coverletter Generator is a Chrome extension powered by OpenAI's chat APIs. It simplifies the process of creating personalized cover letters for job applications. Say goodbye to writer's block and hello to customized, professional cover letters.
 
 ## Features
@@ -28,7 +26,7 @@ AI Coverletter Generator is a Chrome extension powered by OpenAI's chat APIs. It
 
 ## Support and Issues
 
-If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/your-username/coverletter-generator/issues).
+If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/jbrocksfellas/aicoverletter/issues).
 
 ## Contributing
 
