@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cover Letter Generator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script src="popup.js"></script>
+  </head>
+  <body>
+    <div id="main-container">
+      <h2>Cover Letter Generator</h2>
+      <input type="text" id="apiKeyInput" placeholder="Enter your OpenAI API Key" />
+      <button id="saveApiKeyButton">Save API Key</button><br /><br />
+      <textarea id="resumeText" rows="8" cols="40" placeholder="Enter your resume text"></textarea>
+      <button id="saveButton">Save Resume</button>
+      <div id="jobDescriptionContainer">
+        <h3>Add Job Description</h3>
+        <textarea id="jobDescriptionInput" rows="8" cols="40" placeholder="Enter job description"></textarea>
+        <button id="addJobButton">Submit</button>
+      </div>
+      <div id="generatedTextContainer">
+        <h3>Generated Text</h3>
+        <p id="generatedText"></p>
+        <button id="resetButton">Reset</button>
+      </div>
+    </div>
+  </body>
+</html>
